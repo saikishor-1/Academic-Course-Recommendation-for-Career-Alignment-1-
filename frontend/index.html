@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Course Recommendation</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <h2>Academic Course Recommendation System</h2>
+
+    <form id="form">
+        <input type="number" placeholder="CGPA" id="CGPA" required>
+        <input type="number" placeholder="Python (1/0)" id="Python" required>
+        <input type="number" placeholder="ML (1/0)" id="Machine_Learning" required>
+        <input type="number" placeholder="SQL (1/0)" id="SQL" required>
+        <input type="number" placeholder="Projects" id="Projects" required>
+
+        <select id="Interest_Domain">
+            <option>AI</option>
+            <option>Data Science</option>
+            <option>Web Development</option>
+            <option>Cybersecurity</option>
+            <option>Cloud</option>
+        </select>
+
+        <select id="Career_Goal">
+            <option>Industry</option>
+            <option>Research</option>
+            <option>Startup</option>
+            <option>Higher Studies</option>
+        </select>
+
+        <input type="number" placeholder="Industry Demand (5–10)" id="Industry_Demand_Score" required>
+        <input type="number" placeholder="Internship (1/0)" id="Internship_Experience" required>
+
+        <button type="submit">Recommend</button>
+    </form>
+
+    <div id="result"></div>
+
+    
+
+    <script src="index.js"></script>
+</body>
+</html>

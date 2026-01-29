@@ -1,0 +1,1001 @@
+CGPA,Python,Machine_Learning,SQL,Projects,Interest_Domain,Career_Goal,Industry_Demand_Score,Internship_Experience,Recommended_Course
+7.18,1,1,0,4,Data Science,Industry,6,0,Data Science Specialization
+6.03,1,0,0,5,Cloud,Higher Studies,8,1,Cloud Computing
+8.17,1,0,0,6,Cybersecurity,Industry,8,0,Cybersecurity Program
+8.96,0,0,0,4,Web Development,Industry,5,1,Full Stack Development
+8.41,0,1,1,4,Cloud,Startup,6,0,Cloud Computing
+9.53,0,1,1,0,Cybersecurity,Higher Studies,8,0,Cybersecurity Program
+7.47,1,0,0,4,Cybersecurity,Industry,9,1,Cybersecurity Program
+9.02,1,1,1,1,Data Science,Research,10,1,Data Science Specialization
+6.93,0,0,1,0,AI,Startup,10,0,MSc Artificial Intelligence
+8.18,1,0,1,2,AI,Higher Studies,6,0,MSc Artificial Intelligence
+9.41,1,0,1,5,Cloud,Industry,6,1,Cloud Computing
+8.55,0,1,1,0,Cybersecurity,Startup,8,0,Cybersecurity Program
+6.1,0,0,1,5,Web Development,Industry,7,0,Full Stack Development
+9.19,0,0,0,3,AI,Startup,10,1,MSc Artificial Intelligence
+6.11,1,0,1,3,Cloud,Industry,5,1,Cloud Computing
+8.66,1,0,0,6,Web Development,Higher Studies,5,0,Full Stack Development
+9.53,0,0,1,0,Cloud,Higher Studies,9,1,Cloud Computing
+8.03,1,0,1,4,Web Development,Industry,7,0,Full Stack Development
+9.52,1,1,1,4,AI,Industry,9,0,B.Tech AIML
+6.96,1,1,1,4,AI,Startup,7,1,MSc Artificial Intelligence
+6.03,0,1,1,1,Cybersecurity,Higher Studies,6,0,Cybersecurity Program
+6.94,0,0,0,3,Web Development,Industry,6,1,Full Stack Development
+6.71,0,1,1,6,Cybersecurity,Research,10,1,Cybersecurity Program
+8.42,0,1,1,6,Web Development,Higher Studies,6,0,Full Stack Development
+8.3,1,1,0,1,Data Science,Startup,9,1,Data Science Specialization
+9.39,0,1,0,6,Web Development,Research,8,1,Full Stack Development
+7.88,1,0,0,2,Data Science,Higher Studies,8,1,Data Science Specialization
+6.04,0,1,0,2,Web Development,Research,8,0,Full Stack Development
+6.38,0,1,1,6,Cybersecurity,Research,8,0,Cybersecurity Program
+8.62,0,0,1,5,Cloud,Startup,9,1,Cloud Computing
+7.55,0,0,1,5,Web Development,Higher Studies,8,1,Full Stack Development
+6.13,1,1,0,4,Cybersecurity,Startup,6,0,Cybersecurity Program
+6.41,1,1,0,5,AI,Industry,9,0,MSc Artificial Intelligence
+7.96,1,0,1,3,Data Science,Startup,7,0,Data Science Specialization
+7.91,1,0,1,1,AI,Research,6,0,MSc Artificial Intelligence
+7.26,0,0,0,5,Data Science,Industry,9,0,MSc Artificial Intelligence
+7.92,0,0,0,4,Data Science,Startup,7,0,MSc Artificial Intelligence
+8.85,1,0,1,6,Data Science,Startup,6,1,Data Science Specialization
+8.84,0,1,0,3,Data Science,Startup,5,0,MSc Artificial Intelligence
+7.56,0,1,0,4,Data Science,Industry,5,0,MSc Artificial Intelligence
+7.76,0,0,1,4,Cybersecurity,Startup,5,1,Cybersecurity Program
+8.19,1,0,0,0,Cloud,Higher Studies,10,1,Cloud Computing
+8.37,0,0,1,5,Data Science,Startup,5,1,MSc Artificial Intelligence
+9.34,1,1,0,1,AI,Startup,7,0,B.Tech AIML
+7.12,0,0,1,4,Cloud,Research,5,1,Cloud Computing
+6.32,0,0,1,0,Cloud,Higher Studies,8,1,Cloud Computing
+8.53,1,1,1,1,Web Development,Industry,6,0,Full Stack Development
+8.35,0,1,1,5,Web Development,Research,9,1,Full Stack Development
+6.11,0,0,0,4,AI,Startup,10,1,MSc Artificial Intelligence
+9.35,0,1,1,6,Data Science,Startup,5,0,MSc Artificial Intelligence
+6.61,0,0,0,3,AI,Startup,8,0,MSc Artificial Intelligence
+8.11,1,0,1,6,Data Science,Higher Studies,10,0,Data Science Specialization
+7.18,0,1,1,1,Cloud,Startup,6,0,Cloud Computing
+6.13,1,0,0,6,AI,Industry,6,1,MSc Artificial Intelligence
+6.88,0,0,1,4,Web Development,Higher Studies,7,1,Full Stack Development
+9.2,1,1,1,0,Data Science,Research,5,0,Data Science Specialization
+8.68,0,0,0,2,AI,Industry,8,0,MSc Artificial Intelligence
+6.23,1,0,1,6,Web Development,Startup,8,1,Full Stack Development
+9.29,1,1,1,6,Web Development,Higher Studies,8,0,Full Stack Development
+6.74,1,0,1,0,Data Science,Industry,6,1,Data Science Specialization
+9.37,0,1,0,2,Cybersecurity,Research,9,0,Cybersecurity Program
+8.36,1,0,1,5,AI,Industry,8,1,MSc Artificial Intelligence
+8.27,0,1,0,4,AI,Industry,5,1,B.Tech AIML
+8.21,1,1,0,3,Cybersecurity,Industry,6,0,Cybersecurity Program
+9.53,0,1,0,0,AI,Higher Studies,6,1,B.Tech AIML
+9.26,1,1,0,6,AI,Research,9,0,B.Tech AIML
+7.5,1,1,0,0,Cloud,Research,10,0,Cloud Computing
+6.81,1,0,1,2,Cloud,Industry,7,0,Cloud Computing
+8.04,1,0,0,0,Web Development,Higher Studies,10,1,Full Stack Development
+7.39,0,1,1,2,AI,Industry,7,0,MSc Artificial Intelligence
+6.59,0,1,1,2,AI,Higher Studies,10,1,MSc Artificial Intelligence
+6.45,0,0,0,1,AI,Higher Studies,9,0,MSc Artificial Intelligence
+7.02,1,1,1,3,Cloud,Startup,10,1,Cloud Computing
+9.48,0,1,0,0,Web Development,Research,10,1,Full Stack Development
+9.44,0,1,1,1,Web Development,Industry,8,0,Full Stack Development
+7.74,0,0,1,3,Web Development,Higher Studies,6,1,Full Stack Development
+8.13,0,0,1,6,Data Science,Research,8,0,MSc Artificial Intelligence
+8.32,0,1,1,0,Data Science,Startup,6,0,MSc Artificial Intelligence
+8.36,1,0,0,4,Cloud,Industry,6,0,Cloud Computing
+7.93,0,1,1,4,Cybersecurity,Higher Studies,9,0,Cybersecurity Program
+8.06,0,1,1,0,AI,Industry,8,0,B.Tech AIML
+6.7,0,0,0,5,Web Development,Industry,8,1,Full Stack Development
+7.31,0,1,0,4,AI,Research,9,0,MSc Artificial Intelligence
+8.33,1,1,0,4,Cloud,Industry,7,1,Cloud Computing
+8.15,1,0,0,1,Cybersecurity,Higher Studies,7,0,Cybersecurity Program
+8.13,1,0,1,2,Cybersecurity,Higher Studies,5,0,Cybersecurity Program
+7.57,1,0,0,6,Cybersecurity,Research,6,1,Cybersecurity Program
+6.62,1,1,0,0,Web Development,Industry,8,0,Full Stack Development
+7.45,0,1,0,2,Data Science,Higher Studies,5,0,MSc Artificial Intelligence
+7.02,1,0,0,2,Data Science,Startup,7,0,Data Science Specialization
+6.61,1,0,0,0,Cybersecurity,Higher Studies,6,1,Cybersecurity Program
+9.6,0,0,1,6,Data Science,Higher Studies,5,1,MSc Artificial Intelligence
+8.53,1,0,1,6,Data Science,Higher Studies,5,1,Data Science Specialization
+8.12,0,1,1,3,Cloud,Higher Studies,8,0,Cloud Computing
+7.31,0,0,1,4,Cloud,Industry,5,0,Cloud Computing
+7.2,0,0,0,3,AI,Higher Studies,6,0,MSc Artificial Intelligence
+6.17,1,0,1,3,Web Development,Research,10,0,Full Stack Development
+6.48,0,0,1,4,AI,Higher Studies,8,1,MSc Artificial Intelligence
+9.65,1,1,0,1,Web Development,Research,6,0,Full Stack Development
+7.91,1,1,1,1,Web Development,Research,6,0,Full Stack Development
+9.15,0,0,0,4,Data Science,Industry,5,1,MSc Artificial Intelligence
+7.27,0,1,1,0,Web Development,Research,10,1,Full Stack Development
+8.46,0,1,0,4,AI,Research,7,1,B.Tech AIML
+9.39,0,1,0,3,Cloud,Startup,5,1,Cloud Computing
+8.57,1,1,0,3,Cybersecurity,Higher Studies,9,1,Cybersecurity Program
+7.26,1,0,1,6,Cybersecurity,Industry,8,0,Cybersecurity Program
+7.7,1,1,1,6,Cloud,Higher Studies,9,1,Cloud Computing
+9.75,0,0,1,4,AI,Research,5,1,MSc Artificial Intelligence
+6.23,0,1,1,1,Data Science,Startup,9,0,MSc Artificial Intelligence
+7.1,0,0,1,6,Data Science,Higher Studies,10,1,MSc Artificial Intelligence
+8.86,0,1,1,0,AI,Industry,9,1,B.Tech AIML
+7.46,0,1,1,1,Cybersecurity,Industry,5,1,Cybersecurity Program
+9.74,0,1,0,1,Cybersecurity,Research,5,1,Cybersecurity Program
+6.87,1,0,1,5,Web Development,Startup,10,0,Full Stack Development
+9.27,0,0,0,1,Cybersecurity,Industry,7,0,Cybersecurity Program
+6.83,1,0,0,6,Data Science,Startup,7,0,Data Science Specialization
+8.27,0,1,0,5,AI,Industry,6,0,B.Tech AIML
+9.6,0,1,0,3,Cybersecurity,Higher Studies,6,1,Cybersecurity Program
+8.65,0,0,0,6,AI,Research,6,0,MSc Artificial Intelligence
+6.38,1,0,0,6,AI,Research,7,0,MSc Artificial Intelligence
+8.66,1,0,0,3,Cybersecurity,Industry,5,1,Cybersecurity Program
+8.05,1,0,0,5,Cybersecurity,Research,7,1,Cybersecurity Program
+7.66,1,0,1,3,Cloud,Higher Studies,7,0,Cloud Computing
+8.93,0,1,0,0,AI,Research,6,0,B.Tech AIML
+8.28,0,1,1,6,Data Science,Higher Studies,5,1,MSc Artificial Intelligence
+6.56,1,0,1,5,Cloud,Startup,7,0,Cloud Computing
+9.65,0,0,0,2,Web Development,Startup,10,1,Full Stack Development
+8.02,0,0,0,0,Cloud,Higher Studies,6,0,Cloud Computing
+6.11,1,0,1,3,Cloud,Industry,7,1,Cloud Computing
+8.48,0,0,1,6,Data Science,Industry,6,0,MSc Artificial Intelligence
+6.54,1,1,1,0,Cybersecurity,Startup,6,0,Cybersecurity Program
+6.87,1,0,0,3,Cybersecurity,Startup,10,1,Cybersecurity Program
+8.64,0,0,0,2,Web Development,Research,6,0,Full Stack Development
+7.85,0,0,0,5,Cybersecurity,Startup,6,0,Cybersecurity Program
+8.94,0,1,0,1,AI,Higher Studies,5,1,B.Tech AIML
+6.05,1,0,0,6,Data Science,Research,9,0,Data Science Specialization
+7.15,0,1,0,0,AI,Startup,9,1,MSc Artificial Intelligence
+6.17,0,0,1,2,Cybersecurity,Higher Studies,9,1,Cybersecurity Program
+6.74,1,1,0,0,Cloud,Startup,9,1,Cloud Computing
+7.83,1,0,0,3,Data Science,Higher Studies,9,1,Data Science Specialization
+6.6,1,0,1,6,Web Development,Industry,7,0,Full Stack Development
+9.61,0,1,0,6,Cybersecurity,Higher Studies,5,0,Cybersecurity Program
+7.0,0,0,0,4,Cybersecurity,Research,7,1,Cybersecurity Program
+9.61,0,0,0,3,Web Development,Startup,8,0,Full Stack Development
+8.22,1,1,1,5,Cloud,Research,9,0,Cloud Computing
+8.39,1,1,1,5,Web Development,Research,10,1,Full Stack Development
+6.13,1,0,0,6,AI,Research,6,1,MSc Artificial Intelligence
+6.82,0,1,0,3,Cloud,Startup,9,1,Cloud Computing
+7.12,1,0,0,3,Web Development,Research,5,0,Full Stack Development
+8.61,0,0,1,5,AI,Startup,8,0,MSc Artificial Intelligence
+9.75,0,1,0,2,Web Development,Industry,9,1,Full Stack Development
+6.84,1,0,1,0,Web Development,Higher Studies,7,0,Full Stack Development
+9.39,0,0,1,4,AI,Startup,8,0,MSc Artificial Intelligence
+8.98,0,1,0,3,Cloud,Higher Studies,9,0,Cloud Computing
+7.22,0,1,1,1,AI,Industry,9,0,MSc Artificial Intelligence
+8.59,0,1,1,0,Web Development,Startup,7,1,Full Stack Development
+7.45,1,1,1,6,Cloud,Startup,9,0,Cloud Computing
+9.37,1,0,1,4,Data Science,Startup,7,0,Data Science Specialization
+7.15,1,0,1,4,Cloud,Higher Studies,6,0,Cloud Computing
+7.4,1,1,1,1,Cloud,Research,5,0,Cloud Computing
+7.28,1,1,0,0,Data Science,Higher Studies,5,0,Data Science Specialization
+8.13,1,0,1,0,Web Development,Industry,6,1,Full Stack Development
+8.32,1,1,1,6,Cloud,Higher Studies,10,1,Cloud Computing
+8.41,1,1,1,0,Web Development,Startup,10,1,Full Stack Development
+9.59,0,1,0,1,Data Science,Industry,6,0,MSc Artificial Intelligence
+8.21,1,0,0,5,Cloud,Higher Studies,8,0,Cloud Computing
+7.26,0,0,1,3,Data Science,Startup,8,1,MSc Artificial Intelligence
+9.41,0,1,0,0,Web Development,Higher Studies,5,0,Full Stack Development
+8.02,0,1,1,6,AI,Research,5,1,B.Tech AIML
+8.72,0,0,0,1,Web Development,Higher Studies,6,0,Full Stack Development
+6.29,0,0,0,2,AI,Startup,7,0,MSc Artificial Intelligence
+8.73,0,1,1,6,Data Science,Industry,7,0,MSc Artificial Intelligence
+7.44,0,0,0,6,Cybersecurity,Startup,8,1,Cybersecurity Program
+9.71,0,1,1,4,Cloud,Higher Studies,8,1,Cloud Computing
+6.99,0,0,0,3,Web Development,Higher Studies,9,1,Full Stack Development
+8.41,1,0,0,1,AI,Startup,6,1,MSc Artificial Intelligence
+8.24,0,1,1,0,Data Science,Industry,5,0,MSc Artificial Intelligence
+9.38,1,0,0,2,AI,Industry,7,0,MSc Artificial Intelligence
+9.63,0,1,0,5,Data Science,Industry,7,1,MSc Artificial Intelligence
+6.29,1,0,0,6,Data Science,Industry,7,0,Data Science Specialization
+6.92,1,1,0,4,Cybersecurity,Startup,6,0,Cybersecurity Program
+6.35,1,1,1,0,Data Science,Research,10,0,Data Science Specialization
+8.24,1,1,0,5,Cybersecurity,Industry,10,0,Cybersecurity Program
+6.18,1,1,1,5,Web Development,Industry,6,1,Full Stack Development
+6.42,1,1,0,0,Data Science,Industry,10,1,Data Science Specialization
+8.17,1,1,1,6,AI,Industry,8,1,B.Tech AIML
+7.62,1,1,0,4,Data Science,Industry,10,0,Data Science Specialization
+7.51,1,1,0,4,Cloud,Startup,10,1,Cloud Computing
+8.56,0,1,0,1,Data Science,Startup,10,1,MSc Artificial Intelligence
+9.74,0,0,0,5,Data Science,Industry,7,0,MSc Artificial Intelligence
+7.65,1,0,0,6,AI,Research,10,1,MSc Artificial Intelligence
+6.8,0,0,1,5,Cloud,Higher Studies,7,1,Cloud Computing
+7.1,1,0,1,4,Cybersecurity,Industry,10,0,Cybersecurity Program
+9.13,1,0,1,1,Cybersecurity,Research,7,1,Cybersecurity Program
+8.58,1,1,0,0,Cybersecurity,Startup,10,0,Cybersecurity Program
+8.37,0,1,1,6,Cybersecurity,Higher Studies,8,1,Cybersecurity Program
+8.88,0,1,1,5,Cybersecurity,Higher Studies,5,0,Cybersecurity Program
+7.77,1,1,0,2,AI,Higher Studies,8,0,B.Tech AIML
+8.56,1,1,1,4,Cloud,Research,10,0,Cloud Computing
+8.87,0,0,0,6,Data Science,Startup,9,0,MSc Artificial Intelligence
+7.1,1,1,1,4,Web Development,Research,9,1,Full Stack Development
+7.52,0,1,1,1,Web Development,Startup,5,0,Full Stack Development
+7.37,0,1,0,5,Cybersecurity,Research,10,1,Cybersecurity Program
+6.45,0,0,0,4,Cloud,Research,8,0,Cloud Computing
+8.86,0,1,0,4,Data Science,Research,5,0,MSc Artificial Intelligence
+6.76,0,0,1,5,Data Science,Industry,7,0,MSc Artificial Intelligence
+7.47,0,0,1,1,Cybersecurity,Startup,5,0,Cybersecurity Program
+6.33,0,0,1,1,AI,Industry,8,1,MSc Artificial Intelligence
+8.83,1,0,0,4,Cloud,Industry,7,0,Cloud Computing
+8.56,1,0,0,6,AI,Higher Studies,7,1,MSc Artificial Intelligence
+6.09,1,1,1,3,Data Science,Startup,5,1,Data Science Specialization
+6.1,0,1,0,1,Cybersecurity,Industry,7,0,Cybersecurity Program
+8.52,1,0,0,0,Data Science,Startup,8,1,Data Science Specialization
+9.47,0,1,0,0,Data Science,Higher Studies,5,1,MSc Artificial Intelligence
+8.18,0,1,0,0,Web Development,Startup,10,1,Full Stack Development
+7.37,1,0,0,5,Cybersecurity,Research,9,0,Cybersecurity Program
+7.14,1,0,1,5,Cybersecurity,Industry,7,1,Cybersecurity Program
+6.45,1,1,0,6,Cybersecurity,Startup,9,0,Cybersecurity Program
+6.18,1,0,1,2,AI,Startup,8,0,MSc Artificial Intelligence
+7.49,0,1,1,4,Cloud,Startup,8,0,Cloud Computing
+6.35,1,1,0,4,Data Science,Industry,10,1,Data Science Specialization
+7.58,1,1,0,6,AI,Industry,5,1,B.Tech AIML
+7.04,1,1,0,6,AI,Startup,6,0,MSc Artificial Intelligence
+6.16,0,1,0,0,Cloud,Research,9,0,Cloud Computing
+7.69,1,1,1,4,Cybersecurity,Startup,5,1,Cybersecurity Program
+6.2,1,0,0,0,Cloud,Research,8,0,Cloud Computing
+7.01,1,1,0,2,AI,Startup,8,1,MSc Artificial Intelligence
+7.87,0,1,0,0,Data Science,Industry,8,1,MSc Artificial Intelligence
+6.19,0,1,0,2,Cloud,Higher Studies,8,1,Cloud Computing
+8.65,0,1,0,4,Data Science,Research,5,1,MSc Artificial Intelligence
+9.61,0,1,1,2,Data Science,Higher Studies,5,1,MSc Artificial Intelligence
+7.34,0,0,1,3,Web Development,Higher Studies,10,0,Full Stack Development
+7.21,0,1,0,4,AI,Higher Studies,8,1,MSc Artificial Intelligence
+7.4,0,1,0,1,Cybersecurity,Higher Studies,6,0,Cybersecurity Program
+8.7,1,0,1,6,Data Science,Research,9,0,Data Science Specialization
+7.35,1,1,0,5,Cloud,Higher Studies,5,1,Cloud Computing
+6.99,0,1,1,4,AI,Higher Studies,7,0,MSc Artificial Intelligence
+7.27,1,1,0,3,Web Development,Higher Studies,8,1,Full Stack Development
+6.85,1,1,1,0,Cybersecurity,Startup,7,1,Cybersecurity Program
+8.89,0,0,1,6,Cloud,Startup,7,1,Cloud Computing
+6.32,1,0,1,3,AI,Industry,9,1,MSc Artificial Intelligence
+7.8,1,1,1,3,Cybersecurity,Higher Studies,6,0,Cybersecurity Program
+8.98,0,0,1,5,Cloud,Higher Studies,7,1,Cloud Computing
+7.87,1,0,1,3,Data Science,Startup,5,1,Data Science Specialization
+8.44,0,0,1,5,AI,Higher Studies,9,1,MSc Artificial Intelligence
+9.51,1,0,1,5,Web Development,Research,5,0,Full Stack Development
+7.42,0,0,0,3,Data Science,Research,9,1,MSc Artificial Intelligence
+6.3,1,0,1,3,AI,Higher Studies,8,0,MSc Artificial Intelligence
+6.85,1,0,0,1,Data Science,Industry,9,0,Data Science Specialization
+9.38,0,1,0,4,Data Science,Research,10,0,MSc Artificial Intelligence
+6.94,0,1,0,3,Data Science,Research,8,0,MSc Artificial Intelligence
+7.06,1,0,0,6,Cloud,Industry,5,0,Cloud Computing
+9.01,1,1,0,2,AI,Startup,8,1,B.Tech AIML
+8.1,0,0,0,0,Web Development,Startup,9,0,Full Stack Development
+6.74,0,1,0,2,AI,Higher Studies,10,0,MSc Artificial Intelligence
+6.62,0,0,0,0,Cloud,Research,8,1,Cloud Computing
+9.56,0,0,0,1,Cloud,Research,5,0,Cloud Computing
+7.0,0,0,1,1,Data Science,Higher Studies,5,1,MSc Artificial Intelligence
+6.07,1,1,1,3,Cloud,Higher Studies,10,0,Cloud Computing
+7.35,1,0,0,3,AI,Research,9,1,MSc Artificial Intelligence
+8.16,1,0,1,3,AI,Research,10,0,MSc Artificial Intelligence
+6.04,0,1,1,5,AI,Research,8,1,MSc Artificial Intelligence
+8.1,1,1,1,4,Cybersecurity,Higher Studies,7,0,Cybersecurity Program
+6.8,1,1,0,0,AI,Industry,10,1,MSc Artificial Intelligence
+6.87,0,0,0,3,AI,Startup,6,1,MSc Artificial Intelligence
+8.02,1,0,0,3,Cybersecurity,Startup,6,1,Cybersecurity Program
+8.1,0,1,0,1,AI,Higher Studies,5,1,B.Tech AIML
+8.06,0,1,0,1,AI,Research,7,1,B.Tech AIML
+6.25,1,1,0,4,Web Development,Industry,10,1,Full Stack Development
+9.31,0,0,0,4,Data Science,Higher Studies,7,0,MSc Artificial Intelligence
+6.17,0,0,0,6,Cybersecurity,Higher Studies,6,1,Cybersecurity Program
+7.34,0,0,1,6,Web Development,Startup,9,1,Full Stack Development
+6.63,1,0,1,4,Data Science,Higher Studies,8,0,Data Science Specialization
+7.97,0,1,0,6,Web Development,Research,9,0,Full Stack Development
+9.21,1,0,0,2,Cybersecurity,Industry,6,1,Cybersecurity Program
+7.4,1,0,0,1,Cybersecurity,Startup,10,0,Cybersecurity Program
+8.51,1,1,0,4,Web Development,Research,9,1,Full Stack Development
+9.11,0,1,1,2,Cloud,Industry,9,0,Cloud Computing
+6.62,1,1,0,5,Data Science,Industry,8,1,Data Science Specialization
+9.63,1,1,1,2,AI,Research,8,1,B.Tech AIML
+7.13,1,1,0,2,Cybersecurity,Higher Studies,6,1,Cybersecurity Program
+6.97,0,1,1,3,Cybersecurity,Research,9,1,Cybersecurity Program
+8.21,1,0,1,2,Cybersecurity,Higher Studies,6,1,Cybersecurity Program
+7.75,0,1,1,0,Cybersecurity,Industry,7,0,Cybersecurity Program
+9.65,0,0,0,6,Web Development,Research,10,0,Full Stack Development
+8.89,0,0,1,0,Cybersecurity,Startup,10,0,Cybersecurity Program
+9.76,0,0,0,3,Cloud,Startup,7,0,Cloud Computing
+8.39,0,0,0,6,Cybersecurity,Higher Studies,8,0,Cybersecurity Program
+8.24,0,1,0,6,Cybersecurity,Higher Studies,5,1,Cybersecurity Program
+7.38,1,1,0,3,Web Development,Higher Studies,6,0,Full Stack Development
+6.29,1,0,1,6,Data Science,Industry,10,1,Data Science Specialization
+6.9,1,1,1,5,AI,Startup,9,1,MSc Artificial Intelligence
+9.23,1,1,0,4,Data Science,Startup,6,0,Data Science Specialization
+6.59,1,0,0,5,Data Science,Research,7,1,Data Science Specialization
+6.49,0,0,1,3,Cloud,Higher Studies,9,1,Cloud Computing
+9.51,0,0,1,3,Cloud,Industry,7,1,Cloud Computing
+9.75,0,1,0,2,Data Science,Startup,8,0,MSc Artificial Intelligence
+6.68,0,0,1,2,Data Science,Startup,8,0,MSc Artificial Intelligence
+7.42,1,0,0,5,Cloud,Startup,5,0,Cloud Computing
+7.2,1,1,0,3,Cloud,Industry,6,0,Cloud Computing
+9.11,0,0,0,4,Data Science,Research,9,1,MSc Artificial Intelligence
+8.12,1,0,1,3,Cloud,Research,5,0,Cloud Computing
+8.4,0,0,1,4,AI,Industry,8,0,MSc Artificial Intelligence
+9.27,0,1,0,6,Web Development,Startup,8,0,Full Stack Development
+7.6,1,0,0,3,Data Science,Higher Studies,9,0,Data Science Specialization
+8.94,1,1,0,3,AI,Research,8,0,B.Tech AIML
+8.01,1,1,1,0,Cybersecurity,Startup,7,1,Cybersecurity Program
+7.3,0,0,1,5,Data Science,Startup,10,1,MSc Artificial Intelligence
+9.61,0,1,1,5,Cybersecurity,Research,10,1,Cybersecurity Program
+7.95,0,1,0,5,Web Development,Startup,8,1,Full Stack Development
+8.95,1,0,1,3,Web Development,Industry,8,1,Full Stack Development
+6.13,1,1,1,2,Web Development,Startup,7,1,Full Stack Development
+8.56,0,0,1,2,Cybersecurity,Industry,9,1,Cybersecurity Program
+8.2,1,1,1,4,AI,Industry,10,1,B.Tech AIML
+9.54,0,0,1,2,AI,Startup,8,1,MSc Artificial Intelligence
+7.57,0,1,0,5,Cybersecurity,Industry,9,0,Cybersecurity Program
+7.93,0,1,0,3,Web Development,Higher Studies,6,0,Full Stack Development
+6.07,1,1,1,2,Data Science,Industry,7,1,Data Science Specialization
+6.81,1,0,0,4,Cloud,Higher Studies,6,1,Cloud Computing
+8.58,1,0,0,5,Data Science,Research,6,1,Data Science Specialization
+6.15,1,1,0,2,Web Development,Higher Studies,9,1,Full Stack Development
+8.56,1,0,1,3,Data Science,Industry,5,0,Data Science Specialization
+6.13,0,0,1,6,Web Development,Startup,7,0,Full Stack Development
+8.83,0,1,0,1,Data Science,Startup,10,0,MSc Artificial Intelligence
+8.55,0,1,1,3,Data Science,Research,5,0,MSc Artificial Intelligence
+6.32,0,0,1,6,Cybersecurity,Startup,10,0,Cybersecurity Program
+8.85,0,1,1,3,AI,Startup,6,0,B.Tech AIML
+7.29,1,0,0,6,Cybersecurity,Research,8,0,Cybersecurity Program
+9.67,1,0,1,0,Data Science,Startup,10,0,Data Science Specialization
+8.9,0,0,1,4,Cybersecurity,Industry,10,1,Cybersecurity Program
+6.58,1,0,1,6,Web Development,Industry,6,1,Full Stack Development
+6.33,0,1,1,6,Cloud,Startup,7,1,Cloud Computing
+8.92,0,1,1,5,Data Science,Industry,6,0,MSc Artificial Intelligence
+9.58,1,0,1,2,Data Science,Higher Studies,5,1,Data Science Specialization
+7.1,0,1,0,5,Data Science,Industry,9,0,MSc Artificial Intelligence
+6.36,0,0,0,1,Cloud,Research,8,0,Cloud Computing
+6.11,0,1,0,2,Cybersecurity,Startup,8,0,Cybersecurity Program
+6.59,1,1,0,3,AI,Research,7,0,MSc Artificial Intelligence
+6.05,1,0,0,0,Web Development,Industry,6,1,Full Stack Development
+7.01,0,0,0,6,Web Development,Research,6,1,Full Stack Development
+8.42,0,1,0,4,Web Development,Industry,9,0,Full Stack Development
+7.38,0,0,0,2,AI,Startup,8,1,MSc Artificial Intelligence
+6.72,0,1,1,1,Cybersecurity,Research,10,1,Cybersecurity Program
+9.31,0,0,0,5,AI,Higher Studies,8,1,MSc Artificial Intelligence
+7.94,0,0,0,4,Web Development,Startup,6,0,Full Stack Development
+6.72,0,1,0,1,Web Development,Research,6,0,Full Stack Development
+9.19,0,0,0,5,Cloud,Startup,9,1,Cloud Computing
+7.34,0,0,1,3,Cybersecurity,Industry,10,0,Cybersecurity Program
+9.53,1,1,1,1,AI,Startup,10,1,B.Tech AIML
+8.03,1,1,1,3,Data Science,Startup,9,0,Data Science Specialization
+9.11,1,1,0,0,AI,Research,7,0,B.Tech AIML
+6.7,0,0,0,6,AI,Research,9,0,MSc Artificial Intelligence
+9.14,0,0,0,3,Web Development,Industry,7,0,Full Stack Development
+7.63,0,1,1,4,Web Development,Startup,10,1,Full Stack Development
+7.54,1,0,1,5,AI,Industry,7,0,MSc Artificial Intelligence
+7.12,0,0,0,6,Cloud,Research,10,0,Cloud Computing
+8.69,0,0,1,3,Cloud,Startup,7,0,Cloud Computing
+7.13,0,1,0,5,Cloud,Higher Studies,6,1,Cloud Computing
+7.84,0,0,0,4,Cybersecurity,Research,7,1,Cybersecurity Program
+7.08,1,0,1,4,Data Science,Startup,8,0,Data Science Specialization
+9.29,0,1,1,6,AI,Higher Studies,8,0,B.Tech AIML
+7.63,0,0,0,1,Cybersecurity,Research,5,0,Cybersecurity Program
+8.43,1,0,0,3,AI,Startup,7,0,MSc Artificial Intelligence
+8.14,0,1,1,3,AI,Higher Studies,7,0,B.Tech AIML
+9.57,0,1,1,2,Web Development,Startup,7,1,Full Stack Development
+8.96,1,0,0,6,Cybersecurity,Industry,10,1,Cybersecurity Program
+9.37,0,1,0,4,Web Development,Research,8,1,Full Stack Development
+7.23,1,0,0,3,Web Development,Startup,6,1,Full Stack Development
+7.94,0,1,1,1,Cybersecurity,Research,6,1,Cybersecurity Program
+6.91,0,0,1,2,Cloud,Industry,6,0,Cloud Computing
+6.47,0,1,0,0,Cloud,Higher Studies,7,1,Cloud Computing
+6.12,1,1,0,0,Data Science,Higher Studies,8,1,Data Science Specialization
+9.27,1,1,0,5,Cybersecurity,Higher Studies,10,0,Cybersecurity Program
+8.33,1,0,1,1,AI,Startup,8,1,MSc Artificial Intelligence
+6.13,1,1,1,4,Web Development,Industry,8,1,Full Stack Development
+7.21,0,0,1,6,Cloud,Research,9,0,Cloud Computing
+6.95,0,0,0,5,AI,Higher Studies,7,0,MSc Artificial Intelligence
+9.44,0,1,1,1,Data Science,Startup,6,0,MSc Artificial Intelligence
+8.34,0,0,1,1,Data Science,Industry,6,1,MSc Artificial Intelligence
+7.95,1,1,1,5,Data Science,Research,10,0,Data Science Specialization
+8.72,1,1,1,2,Web Development,Startup,9,1,Full Stack Development
+7.66,0,0,0,6,Web Development,Research,5,1,Full Stack Development
+8.82,1,1,1,5,Web Development,Startup,5,0,Full Stack Development
+8.73,1,0,1,2,Cloud,Industry,8,1,Cloud Computing
+7.2,1,1,0,0,Web Development,Higher Studies,8,0,Full Stack Development
+8.15,1,1,1,6,Cybersecurity,Research,5,1,Cybersecurity Program
+8.22,1,1,0,4,Cybersecurity,Higher Studies,8,1,Cybersecurity Program
+9.41,1,0,0,2,Data Science,Startup,5,0,Data Science Specialization
+8.75,0,0,0,6,AI,Research,10,0,MSc Artificial Intelligence
+8.17,0,1,0,1,Web Development,Industry,6,1,Full Stack Development
+7.02,1,1,1,0,Data Science,Higher Studies,6,1,Data Science Specialization
+8.85,0,1,0,5,AI,Higher Studies,9,0,B.Tech AIML
+9.03,0,1,0,0,Cloud,Startup,10,1,Cloud Computing
+8.87,1,1,1,0,Cybersecurity,Higher Studies,7,0,Cybersecurity Program
+7.96,1,0,1,3,Web Development,Higher Studies,9,0,Full Stack Development
+6.27,0,1,1,4,Cloud,Startup,8,0,Cloud Computing
+8.88,1,0,1,1,Cloud,Industry,8,0,Cloud Computing
+9.44,0,0,0,0,Cloud,Higher Studies,6,0,Cloud Computing
+9.42,1,0,1,6,Cybersecurity,Startup,5,1,Cybersecurity Program
+6.97,1,1,1,0,Data Science,Industry,7,1,Data Science Specialization
+6.28,1,0,1,1,Cloud,Research,5,0,Cloud Computing
+6.35,0,1,1,6,Cloud,Industry,8,1,Cloud Computing
+6.65,1,1,1,6,AI,Research,6,1,MSc Artificial Intelligence
+9.4,0,0,0,2,Cloud,Research,9,1,Cloud Computing
+7.93,0,1,1,4,Cybersecurity,Research,8,1,Cybersecurity Program
+9.48,0,1,1,1,Cybersecurity,Research,5,1,Cybersecurity Program
+8.31,1,0,1,1,Data Science,Industry,10,1,Data Science Specialization
+7.05,1,0,0,2,Data Science,Research,8,1,Data Science Specialization
+9.27,1,0,0,2,Cloud,Industry,10,1,Cloud Computing
+7.92,1,0,0,1,Web Development,Industry,10,0,Full Stack Development
+9.14,0,0,1,0,Web Development,Startup,7,0,Full Stack Development
+7.84,0,1,1,2,AI,Research,10,1,B.Tech AIML
+8.99,1,0,0,6,Data Science,Research,9,1,Data Science Specialization
+7.83,1,0,0,4,Cloud,Industry,6,0,Cloud Computing
+7.1,1,1,0,0,Data Science,Startup,6,1,Data Science Specialization
+6.38,1,1,1,5,AI,Research,9,1,MSc Artificial Intelligence
+9.19,1,0,0,2,Cloud,Startup,6,1,Cloud Computing
+7.0,0,0,0,6,Data Science,Research,8,1,MSc Artificial Intelligence
+6.84,1,0,0,0,AI,Startup,7,1,MSc Artificial Intelligence
+6.67,0,0,1,6,Web Development,Higher Studies,8,1,Full Stack Development
+7.77,0,0,1,1,AI,Industry,6,0,MSc Artificial Intelligence
+9.68,0,1,0,6,Data Science,Higher Studies,9,1,MSc Artificial Intelligence
+8.34,0,1,0,1,AI,Industry,9,1,B.Tech AIML
+9.45,0,1,0,4,Cybersecurity,Industry,5,1,Cybersecurity Program
+6.34,1,0,0,1,Data Science,Industry,10,0,Data Science Specialization
+8.62,1,0,1,0,Web Development,Industry,10,1,Full Stack Development
+6.33,1,1,1,0,Web Development,Startup,10,1,Full Stack Development
+8.57,0,0,1,6,Data Science,Higher Studies,5,1,MSc Artificial Intelligence
+7.27,0,0,1,2,Web Development,Research,8,1,Full Stack Development
+6.3,1,1,1,6,Web Development,Higher Studies,10,0,Full Stack Development
+6.83,0,1,1,2,Web Development,Startup,8,0,Full Stack Development
+7.56,1,0,1,5,Cybersecurity,Industry,5,0,Cybersecurity Program
+7.52,1,0,1,4,Web Development,Higher Studies,6,0,Full Stack Development
+7.04,1,1,0,0,AI,Research,9,0,MSc Artificial Intelligence
+9.21,1,0,0,1,Cybersecurity,Research,6,1,Cybersecurity Program
+8.67,1,0,0,0,Data Science,Startup,6,1,Data Science Specialization
+8.93,0,0,1,5,Web Development,Higher Studies,9,1,Full Stack Development
+7.08,0,1,1,3,AI,Startup,8,0,MSc Artificial Intelligence
+7.09,0,1,1,5,AI,Industry,10,1,MSc Artificial Intelligence
+8.45,1,1,0,5,AI,Research,6,1,B.Tech AIML
+9.77,1,1,0,3,Cloud,Research,9,0,Cloud Computing
+6.43,0,0,0,2,Data Science,Startup,7,1,MSc Artificial Intelligence
+9.77,0,1,1,3,Cloud,Startup,6,0,Cloud Computing
+7.18,0,1,1,6,Web Development,Industry,8,0,Full Stack Development
+9.29,1,0,0,3,Web Development,Research,7,1,Full Stack Development
+6.44,1,1,1,0,Web Development,Industry,10,0,Full Stack Development
+8.6,0,1,1,1,Data Science,Higher Studies,9,1,MSc Artificial Intelligence
+7.47,0,1,1,1,AI,Higher Studies,8,1,MSc Artificial Intelligence
+6.67,0,0,0,4,Data Science,Startup,7,0,MSc Artificial Intelligence
+7.76,1,1,0,5,AI,Higher Studies,10,1,B.Tech AIML
+7.66,1,1,0,6,Cybersecurity,Research,8,0,Cybersecurity Program
+9.23,0,0,0,3,Web Development,Higher Studies,7,1,Full Stack Development
+8.84,0,0,0,2,Data Science,Higher Studies,7,0,MSc Artificial Intelligence
+9.63,1,1,1,1,AI,Higher Studies,6,1,B.Tech AIML
+8.18,1,0,1,2,Data Science,Research,7,0,Data Science Specialization
+8.75,1,0,0,3,Web Development,Higher Studies,5,0,Full Stack Development
+6.05,1,1,1,4,AI,Research,10,0,MSc Artificial Intelligence
+8.55,1,0,1,0,AI,Industry,5,0,MSc Artificial Intelligence
+6.76,0,0,1,4,Cybersecurity,Research,7,0,Cybersecurity Program
+6.64,1,1,1,3,Cloud,Research,9,1,Cloud Computing
+9.46,0,1,0,0,Web Development,Startup,6,1,Full Stack Development
+7.08,0,0,0,6,AI,Research,6,1,MSc Artificial Intelligence
+6.19,1,0,1,1,Cybersecurity,Higher Studies,9,0,Cybersecurity Program
+6.91,1,1,1,6,Data Science,Startup,8,0,Data Science Specialization
+9.38,1,0,0,2,Web Development,Higher Studies,7,0,Full Stack Development
+6.82,1,0,0,0,Data Science,Startup,9,0,Data Science Specialization
+9.79,1,1,0,6,Data Science,Industry,6,0,Data Science Specialization
+7.65,1,1,0,1,AI,Startup,9,0,B.Tech AIML
+9.14,1,0,0,5,Cybersecurity,Higher Studies,6,1,Cybersecurity Program
+6.07,0,0,1,4,Cloud,Startup,7,0,Cloud Computing
+6.59,1,1,0,1,Cybersecurity,Research,9,1,Cybersecurity Program
+8.6,1,1,1,0,Cloud,Research,9,0,Cloud Computing
+7.99,0,0,1,5,Web Development,Higher Studies,7,0,Full Stack Development
+6.08,0,1,1,0,AI,Startup,10,0,MSc Artificial Intelligence
+7.26,0,1,1,3,Data Science,Research,7,1,MSc Artificial Intelligence
+8.34,1,1,1,1,Data Science,Higher Studies,10,0,Data Science Specialization
+8.83,1,1,1,2,Cybersecurity,Higher Studies,6,0,Cybersecurity Program
+8.08,0,0,0,6,Web Development,Industry,7,1,Full Stack Development
+9.26,0,1,1,5,AI,Industry,9,1,B.Tech AIML
+8.33,0,1,0,0,Web Development,Higher Studies,8,1,Full Stack Development
+8.79,0,0,1,4,AI,Higher Studies,5,0,MSc Artificial Intelligence
+7.2,0,0,0,1,Data Science,Startup,10,0,MSc Artificial Intelligence
+8.11,1,0,0,6,Data Science,Industry,6,0,Data Science Specialization
+8.57,1,1,0,6,AI,Industry,9,1,B.Tech AIML
+7.79,1,0,1,5,AI,Startup,9,1,MSc Artificial Intelligence
+8.38,0,0,0,0,Data Science,Higher Studies,5,0,MSc Artificial Intelligence
+7.65,1,0,0,1,Cloud,Research,8,0,Cloud Computing
+8.48,0,0,1,3,Data Science,Higher Studies,9,1,MSc Artificial Intelligence
+7.39,0,0,1,2,Web Development,Research,10,1,Full Stack Development
+9.62,0,1,1,3,Cloud,Higher Studies,5,1,Cloud Computing
+8.27,0,0,0,2,Web Development,Industry,8,1,Full Stack Development
+7.21,0,0,0,2,Cloud,Research,6,0,Cloud Computing
+8.36,1,1,1,2,Web Development,Higher Studies,6,1,Full Stack Development
+9.25,0,0,1,3,Web Development,Research,6,0,Full Stack Development
+9.26,1,1,0,3,AI,Startup,5,0,B.Tech AIML
+7.66,0,1,0,2,Web Development,Startup,9,0,Full Stack Development
+7.06,1,0,0,1,Web Development,Higher Studies,8,0,Full Stack Development
+9.32,1,1,0,0,Web Development,Industry,9,0,Full Stack Development
+7.19,0,1,0,4,Cybersecurity,Startup,9,0,Cybersecurity Program
+7.11,1,1,0,3,Cybersecurity,Higher Studies,8,1,Cybersecurity Program
+6.94,0,0,1,1,Web Development,Higher Studies,6,1,Full Stack Development
+6.67,1,1,1,3,Data Science,Industry,6,1,Data Science Specialization
+7.81,1,1,1,3,Data Science,Industry,8,0,Data Science Specialization
+8.74,1,0,1,5,Cloud,Research,5,1,Cloud Computing
+6.84,1,0,1,3,AI,Higher Studies,6,0,MSc Artificial Intelligence
+8.98,1,1,1,2,AI,Higher Studies,6,0,B.Tech AIML
+8.69,0,1,0,2,Data Science,Research,5,0,MSc Artificial Intelligence
+6.54,0,0,1,5,Data Science,Higher Studies,7,0,MSc Artificial Intelligence
+6.74,0,1,0,2,Data Science,Research,5,1,MSc Artificial Intelligence
+8.32,0,1,0,2,AI,Research,10,1,B.Tech AIML
+9.1,0,0,1,0,Data Science,Research,9,1,MSc Artificial Intelligence
+7.79,0,0,0,1,Cloud,Research,9,0,Cloud Computing
+7.92,1,0,0,2,Web Development,Startup,7,0,Full Stack Development
+8.54,0,0,0,6,Data Science,Startup,5,0,MSc Artificial Intelligence
+9.02,1,0,0,0,AI,Higher Studies,9,0,MSc Artificial Intelligence
+6.69,1,1,1,2,Cloud,Higher Studies,6,1,Cloud Computing
+9.72,1,0,0,5,Cloud,Startup,8,1,Cloud Computing
+7.94,1,1,1,2,Data Science,Startup,7,0,Data Science Specialization
+7.41,1,1,0,3,Data Science,Higher Studies,6,0,Data Science Specialization
+9.74,1,0,1,4,Cloud,Research,9,0,Cloud Computing
+9.24,0,1,0,0,Cloud,Higher Studies,5,0,Cloud Computing
+6.26,1,0,1,1,Web Development,Industry,8,1,Full Stack Development
+9.07,0,0,0,5,Web Development,Higher Studies,10,0,Full Stack Development
+6.23,1,1,0,2,AI,Higher Studies,7,0,MSc Artificial Intelligence
+6.73,1,1,0,5,Cybersecurity,Higher Studies,5,0,Cybersecurity Program
+8.03,1,0,1,2,AI,Higher Studies,9,1,MSc Artificial Intelligence
+6.81,0,0,1,3,Cybersecurity,Higher Studies,10,0,Cybersecurity Program
+6.67,1,0,0,5,Cloud,Higher Studies,8,0,Cloud Computing
+6.31,1,0,1,1,Web Development,Startup,8,1,Full Stack Development
+7.35,0,1,1,6,Data Science,Higher Studies,6,0,MSc Artificial Intelligence
+7.4,0,1,0,1,Cybersecurity,Startup,10,0,Cybersecurity Program
+9.22,1,1,1,5,Data Science,Startup,5,1,Data Science Specialization
+9.36,0,0,0,3,Web Development,Higher Studies,7,1,Full Stack Development
+8.82,0,1,1,4,Cybersecurity,Industry,10,0,Cybersecurity Program
+9.14,1,1,1,2,Cybersecurity,Research,9,1,Cybersecurity Program
+7.58,1,0,0,4,AI,Higher Studies,10,1,MSc Artificial Intelligence
+9.63,1,1,1,5,Web Development,Higher Studies,9,0,Full Stack Development
+7.9,0,0,0,1,AI,Research,10,1,MSc Artificial Intelligence
+9.46,0,1,0,0,Cloud,Higher Studies,10,0,Cloud Computing
+7.25,1,1,0,4,AI,Research,9,1,MSc Artificial Intelligence
+8.12,0,0,1,2,Data Science,Higher Studies,7,1,MSc Artificial Intelligence
+6.02,1,0,0,5,Data Science,Higher Studies,8,0,Data Science Specialization
+7.16,0,1,0,1,Cybersecurity,Startup,6,1,Cybersecurity Program
+6.21,0,1,1,2,Cloud,Industry,10,1,Cloud Computing
+8.14,1,1,0,2,Cloud,Research,5,1,Cloud Computing
+9.79,1,1,0,6,Data Science,Industry,7,0,Data Science Specialization
+7.91,1,0,0,4,AI,Research,5,0,MSc Artificial Intelligence
+7.78,1,1,0,4,Cloud,Startup,8,0,Cloud Computing
+7.16,1,0,1,4,Cybersecurity,Startup,5,1,Cybersecurity Program
+6.82,1,0,1,1,Web Development,Research,6,0,Full Stack Development
+6.3,0,0,0,6,Data Science,Startup,5,0,MSc Artificial Intelligence
+6.2,1,0,1,3,Data Science,Industry,7,0,Data Science Specialization
+8.77,0,1,0,1,AI,Higher Studies,7,1,B.Tech AIML
+8.51,1,0,1,6,Web Development,Research,6,0,Full Stack Development
+7.63,1,0,1,6,Web Development,Research,7,1,Full Stack Development
+8.73,0,1,0,0,Data Science,Industry,9,1,MSc Artificial Intelligence
+8.95,0,1,0,5,Cybersecurity,Higher Studies,6,1,Cybersecurity Program
+9.32,0,0,0,5,Data Science,Higher Studies,5,1,MSc Artificial Intelligence
+8.72,1,0,0,0,AI,Higher Studies,6,1,MSc Artificial Intelligence
+8.7,0,0,1,1,Web Development,Industry,5,0,Full Stack Development
+7.98,1,0,0,1,Cloud,Higher Studies,6,0,Cloud Computing
+7.02,0,0,1,1,Data Science,Higher Studies,9,0,MSc Artificial Intelligence
+9.69,0,1,1,2,Web Development,Research,8,1,Full Stack Development
+9.2,1,1,0,4,Cybersecurity,Research,6,0,Cybersecurity Program
+7.31,1,1,0,6,AI,Research,8,0,MSc Artificial Intelligence
+7.69,1,1,1,5,Cybersecurity,Higher Studies,10,0,Cybersecurity Program
+6.19,1,0,0,6,Cloud,Startup,6,1,Cloud Computing
+8.5,0,1,0,0,Web Development,Higher Studies,8,1,Full Stack Development
+6.82,0,1,0,6,Data Science,Research,6,1,MSc Artificial Intelligence
+6.1,1,1,1,3,Cloud,Industry,10,0,Cloud Computing
+8.78,1,0,1,4,Cybersecurity,Higher Studies,8,1,Cybersecurity Program
+6.61,1,1,0,0,Web Development,Startup,6,1,Full Stack Development
+9.44,1,1,1,1,Data Science,Startup,6,0,Data Science Specialization
+6.94,0,1,1,5,Web Development,Higher Studies,9,0,Full Stack Development
+9.07,1,1,1,0,Cybersecurity,Industry,10,0,Cybersecurity Program
+6.02,1,1,1,6,Data Science,Research,8,1,Data Science Specialization
+8.94,0,1,0,2,Data Science,Startup,5,1,MSc Artificial Intelligence
+7.74,1,0,0,4,AI,Research,9,1,MSc Artificial Intelligence
+9.68,1,0,0,0,Data Science,Higher Studies,7,1,Data Science Specialization
+6.1,0,0,0,3,Data Science,Higher Studies,10,0,MSc Artificial Intelligence
+6.36,1,0,1,0,Web Development,Higher Studies,6,0,Full Stack Development
+6.64,0,1,1,1,Cloud,Industry,5,1,Cloud Computing
+6.85,1,0,0,3,Data Science,Higher Studies,5,0,Data Science Specialization
+9.28,1,0,0,6,Data Science,Startup,6,1,Data Science Specialization
+8.09,1,1,0,5,Cloud,Startup,9,1,Cloud Computing
+8.08,0,1,1,5,AI,Research,8,0,B.Tech AIML
+9.28,1,1,1,0,Cybersecurity,Higher Studies,10,1,Cybersecurity Program
+7.23,1,1,1,3,Cybersecurity,Startup,8,1,Cybersecurity Program
+8.38,1,0,1,4,Web Development,Research,9,0,Full Stack Development
+9.25,1,1,1,5,Cybersecurity,Industry,9,0,Cybersecurity Program
+8.16,1,0,0,5,Cloud,Startup,7,1,Cloud Computing
+9.58,0,1,0,2,Cybersecurity,Higher Studies,6,1,Cybersecurity Program
+6.87,0,1,0,1,Cloud,Higher Studies,9,0,Cloud Computing
+7.78,1,0,1,6,AI,Industry,10,0,MSc Artificial Intelligence
+7.36,0,1,1,5,AI,Startup,9,0,MSc Artificial Intelligence
+6.7,0,0,0,6,Data Science,Startup,10,0,MSc Artificial Intelligence
+6.54,0,0,0,0,Web Development,Research,8,1,Full Stack Development
+9.02,1,1,0,1,AI,Higher Studies,8,0,B.Tech AIML
+9.32,0,1,0,0,Data Science,Higher Studies,8,0,MSc Artificial Intelligence
+9.28,0,1,0,5,Cybersecurity,Startup,5,0,Cybersecurity Program
+6.76,1,1,1,3,Cybersecurity,Higher Studies,7,1,Cybersecurity Program
+7.67,1,1,1,0,Cloud,Research,10,1,Cloud Computing
+7.74,1,1,1,1,Data Science,Research,10,1,Data Science Specialization
+6.03,0,1,0,1,Web Development,Research,5,1,Full Stack Development
+8.49,1,1,0,6,Cloud,Industry,6,0,Cloud Computing
+6.87,0,1,0,5,AI,Industry,5,0,MSc Artificial Intelligence
+7.35,0,0,1,1,Cybersecurity,Research,6,1,Cybersecurity Program
+7.64,0,0,0,3,Data Science,Higher Studies,8,1,MSc Artificial Intelligence
+9.08,1,1,0,0,Cloud,Higher Studies,8,0,Cloud Computing
+9.16,0,1,1,3,AI,Research,8,1,B.Tech AIML
+6.03,0,1,0,3,Data Science,Industry,9,1,MSc Artificial Intelligence
+6.14,0,0,0,4,Cloud,Industry,7,1,Cloud Computing
+8.13,0,0,1,1,Data Science,Startup,10,1,MSc Artificial Intelligence
+9.62,1,1,1,2,Web Development,Startup,5,0,Full Stack Development
+6.79,1,0,1,5,Web Development,Industry,10,1,Full Stack Development
+6.58,1,1,0,0,Cybersecurity,Industry,5,0,Cybersecurity Program
+9.66,1,1,0,4,AI,Higher Studies,7,0,B.Tech AIML
+6.51,0,0,1,2,Web Development,Research,7,0,Full Stack Development
+7.92,0,0,0,0,AI,Higher Studies,6,0,MSc Artificial Intelligence
+7.72,0,0,1,2,Data Science,Industry,8,0,MSc Artificial Intelligence
+6.78,0,0,0,3,Cybersecurity,Research,5,0,Cybersecurity Program
+8.6,1,1,0,5,Web Development,Higher Studies,6,1,Full Stack Development
+9.25,1,0,0,3,Cloud,Higher Studies,5,1,Cloud Computing
+6.25,0,0,0,0,AI,Industry,6,0,MSc Artificial Intelligence
+8.6,1,0,0,6,Cybersecurity,Industry,10,1,Cybersecurity Program
+7.64,1,1,0,1,Cybersecurity,Industry,8,1,Cybersecurity Program
+9.2,0,1,1,0,AI,Industry,9,1,B.Tech AIML
+7.61,1,0,0,3,Cybersecurity,Industry,6,0,Cybersecurity Program
+9.29,0,1,1,3,Cloud,Higher Studies,8,1,Cloud Computing
+7.37,1,1,0,4,AI,Research,8,1,MSc Artificial Intelligence
+6.05,0,0,0,6,Cloud,Industry,7,1,Cloud Computing
+8.31,0,0,0,6,Cloud,Startup,7,0,Cloud Computing
+7.37,0,0,0,5,AI,Startup,9,0,MSc Artificial Intelligence
+8.33,0,0,0,6,Cybersecurity,Industry,6,0,Cybersecurity Program
+7.85,1,1,1,4,Cybersecurity,Higher Studies,9,1,Cybersecurity Program
+8.22,1,1,1,6,Web Development,Industry,7,0,Full Stack Development
+9.54,0,1,1,6,Data Science,Higher Studies,5,1,MSc Artificial Intelligence
+7.14,0,0,0,2,Web Development,Higher Studies,9,1,Full Stack Development
+7.81,1,1,1,5,Cloud,Research,8,0,Cloud Computing
+9.57,0,1,1,5,Data Science,Higher Studies,9,1,MSc Artificial Intelligence
+8.56,0,1,1,0,Cybersecurity,Research,10,1,Cybersecurity Program
+8.33,1,1,0,5,Web Development,Startup,6,1,Full Stack Development
+9.75,0,1,1,6,Data Science,Higher Studies,5,1,MSc Artificial Intelligence
+6.06,1,1,1,1,Cloud,Industry,5,1,Cloud Computing
+8.11,1,1,0,4,AI,Industry,7,0,B.Tech AIML
+6.98,1,0,0,4,AI,Industry,10,1,MSc Artificial Intelligence
+7.67,0,0,1,4,Cloud,Higher Studies,10,0,Cloud Computing
+9.43,1,1,1,1,Data Science,Higher Studies,8,1,Data Science Specialization
+7.36,1,1,1,1,Data Science,Research,9,1,Data Science Specialization
+8.17,0,0,1,4,AI,Industry,10,1,MSc Artificial Intelligence
+8.53,1,1,0,3,Data Science,Higher Studies,10,1,Data Science Specialization
+6.17,1,0,1,5,Cloud,Higher Studies,9,1,Cloud Computing
+7.59,0,0,1,4,Cloud,Research,10,1,Cloud Computing
+8.86,0,1,1,4,Cybersecurity,Research,6,0,Cybersecurity Program
+9.27,0,1,1,5,Cybersecurity,Startup,7,1,Cybersecurity Program
+6.54,1,1,0,4,Data Science,Research,8,0,Data Science Specialization
+6.82,1,0,0,6,Cloud,Startup,6,1,Cloud Computing
+9.38,0,1,0,0,Data Science,Higher Studies,10,1,MSc Artificial Intelligence
+6.62,0,0,1,2,Web Development,Industry,7,0,Full Stack Development
+6.27,0,0,1,2,Cloud,Startup,10,1,Cloud Computing
+7.68,0,1,0,1,Web Development,Higher Studies,9,0,Full Stack Development
+9.1,1,1,1,4,AI,Higher Studies,7,1,B.Tech AIML
+9.66,0,1,0,6,Web Development,Research,5,1,Full Stack Development
+6.63,0,1,0,6,Data Science,Higher Studies,8,1,MSc Artificial Intelligence
+7.42,0,1,1,0,Web Development,Industry,5,0,Full Stack Development
+8.06,0,0,0,4,AI,Startup,5,0,MSc Artificial Intelligence
+8.2,0,0,0,0,Data Science,Startup,7,0,MSc Artificial Intelligence
+8.69,1,0,1,1,Cybersecurity,Research,10,1,Cybersecurity Program
+7.85,1,1,0,4,Data Science,Industry,6,1,Data Science Specialization
+8.97,0,1,0,2,Cybersecurity,Industry,6,0,Cybersecurity Program
+8.47,0,1,1,4,Data Science,Research,8,1,MSc Artificial Intelligence
+6.6,1,1,0,4,Cybersecurity,Industry,10,0,Cybersecurity Program
+9.79,1,0,0,0,Cloud,Higher Studies,9,0,Cloud Computing
+7.78,1,0,0,1,AI,Higher Studies,7,0,MSc Artificial Intelligence
+8.36,1,0,0,4,Data Science,Research,5,1,Data Science Specialization
+9.26,1,0,1,0,AI,Higher Studies,6,0,MSc Artificial Intelligence
+9.72,1,0,0,0,AI,Industry,6,0,MSc Artificial Intelligence
+7.2,1,0,0,6,Cloud,Research,6,1,Cloud Computing
+6.31,1,0,1,5,Cloud,Industry,9,0,Cloud Computing
+8.76,1,1,1,4,Cybersecurity,Startup,5,1,Cybersecurity Program
+6.56,0,1,1,1,AI,Industry,8,0,MSc Artificial Intelligence
+8.86,0,1,1,6,Data Science,Higher Studies,6,0,MSc Artificial Intelligence
+9.4,0,0,0,5,Cloud,Higher Studies,9,1,Cloud Computing
+7.9,0,0,0,1,AI,Higher Studies,8,0,MSc Artificial Intelligence
+6.78,0,0,0,3,Cybersecurity,Startup,6,0,Cybersecurity Program
+8.69,0,0,0,4,AI,Research,10,1,MSc Artificial Intelligence
+8.02,0,1,0,4,Cloud,Startup,9,0,Cloud Computing
+8.05,0,0,0,5,Web Development,Startup,10,1,Full Stack Development
+9.45,1,0,0,5,Data Science,Higher Studies,5,1,Data Science Specialization
+8.29,1,0,0,4,AI,Higher Studies,8,1,MSc Artificial Intelligence
+8.91,0,1,1,6,Web Development,Research,5,0,Full Stack Development
+7.45,0,0,1,3,AI,Higher Studies,8,0,MSc Artificial Intelligence
+9.31,0,0,0,1,Cybersecurity,Industry,7,0,Cybersecurity Program
+7.23,1,0,0,4,Data Science,Higher Studies,10,1,Data Science Specialization
+7.63,1,1,1,0,Cloud,Higher Studies,5,0,Cloud Computing
+7.36,0,1,1,1,Cybersecurity,Higher Studies,8,0,Cybersecurity Program
+8.57,1,0,1,6,AI,Higher Studies,5,1,MSc Artificial Intelligence
+8.74,0,1,1,5,Cloud,Higher Studies,7,0,Cloud Computing
+9.12,0,1,1,4,Cloud,Industry,9,0,Cloud Computing
+6.36,1,0,1,3,AI,Startup,6,0,MSc Artificial Intelligence
+8.15,1,1,1,5,Data Science,Research,6,0,Data Science Specialization
+6.92,1,1,0,5,Data Science,Industry,6,0,Data Science Specialization
+6.45,0,1,1,0,Cloud,Higher Studies,10,0,Cloud Computing
+8.9,0,0,0,5,Cybersecurity,Startup,7,1,Cybersecurity Program
+7.39,1,1,0,2,Cybersecurity,Higher Studies,10,1,Cybersecurity Program
+6.62,0,1,0,5,Data Science,Industry,9,0,MSc Artificial Intelligence
+7.71,0,1,1,4,Cloud,Industry,7,0,Cloud Computing
+8.06,1,1,0,1,Cloud,Research,5,1,Cloud Computing
+6.43,0,1,0,2,Cybersecurity,Industry,6,0,Cybersecurity Program
+7.75,1,1,0,0,Cybersecurity,Startup,8,1,Cybersecurity Program
+7.17,0,1,0,5,Cybersecurity,Industry,7,0,Cybersecurity Program
+8.88,0,0,1,6,Cybersecurity,Startup,8,1,Cybersecurity Program
+6.99,0,1,0,0,Cloud,Industry,8,1,Cloud Computing
+6.55,1,0,0,5,Data Science,Higher Studies,10,1,Data Science Specialization
+6.75,0,1,0,6,Data Science,Research,7,0,MSc Artificial Intelligence
+6.32,0,1,0,4,AI,Higher Studies,7,0,MSc Artificial Intelligence
+6.29,0,1,0,4,Data Science,Higher Studies,6,1,MSc Artificial Intelligence
+6.27,1,0,1,2,Cybersecurity,Research,6,1,Cybersecurity Program
+8.39,1,0,1,5,Web Development,Industry,8,0,Full Stack Development
+9.5,0,0,1,1,Cybersecurity,Industry,7,0,Cybersecurity Program
+9.54,1,1,0,4,Data Science,Higher Studies,7,1,Data Science Specialization
+9.71,0,1,1,1,Cybersecurity,Industry,10,0,Cybersecurity Program
+8.3,1,1,0,5,Cloud,Higher Studies,7,1,Cloud Computing
+9.78,0,0,1,1,Data Science,Industry,6,0,MSc Artificial Intelligence
+9.6,1,1,0,1,Cloud,Research,7,1,Cloud Computing
+8.21,1,1,0,5,Web Development,Higher Studies,6,0,Full Stack Development
+9.63,1,1,1,2,Cloud,Industry,7,0,Cloud Computing
+8.22,0,1,1,5,Cybersecurity,Startup,8,0,Cybersecurity Program
+7.2,0,0,0,3,Data Science,Startup,9,0,MSc Artificial Intelligence
+9.43,1,1,1,1,Cloud,Startup,8,1,Cloud Computing
+9.16,1,0,0,4,Cybersecurity,Higher Studies,6,1,Cybersecurity Program
+6.52,0,1,0,3,Cybersecurity,Research,9,0,Cybersecurity Program
+8.97,1,1,0,2,AI,Industry,9,0,B.Tech AIML
+7.6,1,0,1,1,Cloud,Research,9,0,Cloud Computing
+8.47,1,0,1,0,Cybersecurity,Higher Studies,5,0,Cybersecurity Program
+6.94,1,0,1,1,Web Development,Industry,5,0,Full Stack Development
+8.27,0,0,1,3,Web Development,Industry,8,0,Full Stack Development
+9.23,1,1,1,2,AI,Higher Studies,8,0,B.Tech AIML
+8.03,1,0,0,2,Data Science,Startup,6,0,Data Science Specialization
+9.56,0,0,1,4,Cybersecurity,Industry,6,1,Cybersecurity Program
+9.52,1,1,0,2,Cybersecurity,Startup,6,1,Cybersecurity Program
+8.44,0,0,1,2,AI,Industry,8,0,MSc Artificial Intelligence
+8.6,1,0,1,2,Cloud,Research,5,1,Cloud Computing
+6.83,0,0,0,4,Cybersecurity,Research,7,0,Cybersecurity Program
+7.89,1,0,1,6,Cybersecurity,Industry,8,0,Cybersecurity Program
+6.13,0,1,1,3,Web Development,Industry,10,0,Full Stack Development
+9.07,0,1,1,5,Web Development,Research,5,0,Full Stack Development
+6.35,0,1,0,0,AI,Startup,9,0,MSc Artificial Intelligence
+7.91,0,0,1,6,Web Development,Industry,10,1,Full Stack Development
+9.63,0,1,0,6,Cloud,Research,10,1,Cloud Computing
+7.94,1,0,0,1,Data Science,Research,9,1,Data Science Specialization
+7.24,0,1,1,6,AI,Higher Studies,6,0,MSc Artificial Intelligence
+6.57,0,1,0,4,Cloud,Higher Studies,8,1,Cloud Computing
+9.52,0,1,0,4,Web Development,Research,9,0,Full Stack Development
+8.51,0,0,0,5,Data Science,Research,7,0,MSc Artificial Intelligence
+6.39,1,1,0,1,Cloud,Higher Studies,5,0,Cloud Computing
+9.22,0,1,1,3,Data Science,Higher Studies,7,1,MSc Artificial Intelligence
+7.06,0,1,0,2,Data Science,Industry,6,1,MSc Artificial Intelligence
+6.14,1,1,1,6,Cybersecurity,Research,8,0,Cybersecurity Program
+6.34,0,0,0,5,Web Development,Higher Studies,10,0,Full Stack Development
+6.53,1,1,0,2,AI,Higher Studies,7,1,MSc Artificial Intelligence
+7.71,0,1,1,3,Cloud,Higher Studies,9,1,Cloud Computing
+9.07,1,0,0,1,Cloud,Research,7,1,Cloud Computing
+7.47,1,0,1,0,Web Development,Startup,7,1,Full Stack Development
+6.77,0,1,1,0,Data Science,Higher Studies,6,0,MSc Artificial Intelligence
+9.13,0,1,0,2,Cloud,Industry,5,0,Cloud Computing
+8.28,1,0,0,5,Cloud,Startup,5,0,Cloud Computing
+9.55,0,1,0,1,Data Science,Research,8,1,MSc Artificial Intelligence
+7.71,1,1,1,4,Data Science,Research,9,1,Data Science Specialization
+6.1,0,1,1,0,AI,Startup,7,1,MSc Artificial Intelligence
+7.58,0,0,1,1,Data Science,Higher Studies,9,1,MSc Artificial Intelligence
+9.41,0,1,0,1,AI,Startup,8,1,B.Tech AIML
+8.92,0,0,1,0,AI,Industry,6,1,MSc Artificial Intelligence
+9.06,1,0,0,2,Cloud,Startup,10,1,Cloud Computing
+6.09,0,0,0,5,Cybersecurity,Research,9,0,Cybersecurity Program
+9.56,0,0,1,5,Cybersecurity,Higher Studies,7,1,Cybersecurity Program
+8.41,0,0,1,3,AI,Startup,9,0,MSc Artificial Intelligence
+7.93,0,1,0,0,AI,Startup,5,0,B.Tech AIML
+6.81,1,1,0,1,Web Development,Higher Studies,5,0,Full Stack Development
+9.56,1,0,1,0,AI,Research,7,1,MSc Artificial Intelligence
+6.3,1,1,0,5,Web Development,Startup,7,1,Full Stack Development
+7.3,1,0,0,2,Data Science,Startup,6,1,Data Science Specialization
+9.06,1,1,0,0,AI,Startup,6,0,B.Tech AIML
+7.35,1,0,1,3,Cloud,Higher Studies,7,0,Cloud Computing
+8.94,0,1,0,1,Data Science,Startup,10,0,MSc Artificial Intelligence
+7.91,0,1,0,1,Web Development,Research,10,0,Full Stack Development
+8.64,0,0,1,4,Web Development,Research,7,1,Full Stack Development
+6.8,1,0,1,4,Web Development,Startup,6,1,Full Stack Development
+8.0,0,1,1,0,AI,Industry,10,0,B.Tech AIML
+7.99,0,1,0,3,AI,Higher Studies,7,0,B.Tech AIML
+7.47,0,0,0,3,Cybersecurity,Startup,6,1,Cybersecurity Program
+7.46,0,0,1,4,Cybersecurity,Higher Studies,10,1,Cybersecurity Program
+6.94,1,0,0,5,Cloud,Startup,9,0,Cloud Computing
+6.66,1,1,0,4,Cloud,Research,6,0,Cloud Computing
+8.4,0,0,0,3,Data Science,Industry,7,1,MSc Artificial Intelligence
+7.62,1,1,0,4,Cloud,Higher Studies,9,1,Cloud Computing
+6.62,1,1,0,4,AI,Research,10,0,MSc Artificial Intelligence
+6.23,1,0,0,4,Cloud,Higher Studies,8,1,Cloud Computing
+6.6,0,0,1,1,AI,Research,5,1,MSc Artificial Intelligence
+9.65,0,0,1,4,Web Development,Research,5,1,Full Stack Development
+8.41,0,0,0,1,Web Development,Industry,8,0,Full Stack Development
+7.33,1,1,1,0,AI,Higher Studies,5,0,MSc Artificial Intelligence
+7.03,1,1,0,3,Cloud,Research,6,0,Cloud Computing
+7.33,1,1,0,4,Cloud,Research,7,0,Cloud Computing
+7.54,1,0,0,5,Data Science,Startup,6,1,Data Science Specialization
+7.87,0,1,1,3,Cloud,Higher Studies,7,0,Cloud Computing
+7.48,0,1,1,2,Data Science,Startup,5,1,MSc Artificial Intelligence
+9.66,0,0,1,3,Cloud,Research,10,1,Cloud Computing
+7.26,0,0,0,3,Web Development,Research,10,0,Full Stack Development
+8.48,1,0,0,6,Web Development,Higher Studies,5,0,Full Stack Development
+8.43,0,1,0,5,Data Science,Research,7,1,MSc Artificial Intelligence
+6.82,1,0,1,5,Cybersecurity,Higher Studies,5,0,Cybersecurity Program
+6.28,0,1,0,5,Web Development,Industry,8,0,Full Stack Development
+6.15,1,0,0,4,Cybersecurity,Industry,10,0,Cybersecurity Program
+8.7,0,1,0,6,AI,Startup,7,1,B.Tech AIML
+9.44,1,0,1,5,Data Science,Industry,10,0,Data Science Specialization
+9.4,1,0,0,4,Cybersecurity,Higher Studies,9,1,Cybersecurity Program
+9.46,1,0,0,1,Data Science,Research,5,1,Data Science Specialization
+8.34,0,0,1,5,Cloud,Startup,7,0,Cloud Computing
+6.56,1,1,1,2,AI,Research,5,0,MSc Artificial Intelligence
+9.76,1,0,1,2,AI,Startup,10,0,MSc Artificial Intelligence
+6.53,1,1,1,6,Data Science,Startup,6,0,Data Science Specialization
+6.58,0,0,0,3,AI,Higher Studies,6,1,MSc Artificial Intelligence
+6.28,0,0,0,1,Cloud,Startup,7,0,Cloud Computing
+7.39,0,1,1,3,AI,Higher Studies,6,0,MSc Artificial Intelligence
+6.42,0,1,0,3,Cybersecurity,Startup,6,0,Cybersecurity Program
+8.09,1,1,0,3,AI,Industry,7,0,B.Tech AIML
+9.15,1,0,0,3,Data Science,Research,10,1,Data Science Specialization
+8.36,0,0,1,3,Data Science,Research,5,0,MSc Artificial Intelligence
+8.54,1,1,0,6,Cloud,Industry,7,0,Cloud Computing
+6.98,1,1,1,2,Web Development,Startup,6,1,Full Stack Development
+9.29,0,0,0,0,AI,Industry,10,0,MSc Artificial Intelligence
+9.34,0,0,1,6,Cybersecurity,Industry,5,0,Cybersecurity Program
+8.51,0,0,1,2,Cybersecurity,Industry,6,1,Cybersecurity Program
+6.52,0,0,0,5,Data Science,Industry,5,0,MSc Artificial Intelligence
+6.68,0,0,0,3,AI,Research,8,1,MSc Artificial Intelligence
+9.58,1,0,1,2,AI,Startup,7,1,MSc Artificial Intelligence
+7.94,1,1,1,6,AI,Research,5,1,B.Tech AIML
+8.52,0,1,1,0,Cybersecurity,Industry,10,0,Cybersecurity Program
+6.98,0,1,1,0,Cloud,Industry,5,1,Cloud Computing
+6.65,1,1,0,5,Data Science,Startup,9,0,Data Science Specialization
+8.71,0,0,0,3,AI,Industry,7,1,MSc Artificial Intelligence
+8.94,1,0,1,3,Cybersecurity,Research,6,0,Cybersecurity Program
+7.55,1,1,0,4,Cloud,Industry,6,0,Cloud Computing
+9.52,1,0,1,5,Cloud,Higher Studies,7,0,Cloud Computing
+6.52,0,1,0,2,Cloud,Industry,5,0,Cloud Computing
+8.02,1,1,1,2,AI,Industry,8,0,B.Tech AIML
+7.38,1,0,1,0,Cybersecurity,Research,9,0,Cybersecurity Program
+7.7,1,1,1,4,Data Science,Startup,10,1,Data Science Specialization
+7.12,1,0,1,1,AI,Higher Studies,6,1,MSc Artificial Intelligence
+6.7,0,1,0,5,Web Development,Startup,5,1,Full Stack Development
+9.48,1,1,0,4,Web Development,Higher Studies,9,0,Full Stack Development
+6.08,1,0,0,3,Web Development,Startup,9,1,Full Stack Development
+9.2,1,0,1,0,Web Development,Research,7,0,Full Stack Development
+6.66,0,0,0,5,Cloud,Startup,8,1,Cloud Computing
+6.35,1,0,1,2,Data Science,Research,8,0,Data Science Specialization
+7.78,1,0,1,0,Cybersecurity,Startup,7,0,Cybersecurity Program
+6.97,1,0,1,6,Data Science,Research,8,0,Data Science Specialization
+8.2,1,1,1,1,Web Development,Industry,6,0,Full Stack Development
+7.74,1,0,0,6,AI,Startup,7,0,MSc Artificial Intelligence
+9.16,1,1,0,3,Cloud,Startup,8,0,Cloud Computing
+8.88,1,1,0,0,Data Science,Research,8,1,Data Science Specialization
+7.1,0,0,1,6,AI,Research,8,1,MSc Artificial Intelligence
+7.64,0,0,1,6,Cloud,Higher Studies,7,0,Cloud Computing
+7.72,1,1,1,2,Cybersecurity,Industry,7,1,Cybersecurity Program
+9.02,0,0,0,0,Web Development,Research,8,0,Full Stack Development
+7.72,1,1,0,5,Web Development,Industry,7,1,Full Stack Development
+8.65,0,1,1,2,Cybersecurity,Industry,10,0,Cybersecurity Program
+9.09,0,1,0,5,Cloud,Startup,7,0,Cloud Computing
+8.33,0,0,0,3,Cybersecurity,Higher Studies,7,0,Cybersecurity Program
+7.94,1,0,1,5,Cloud,Industry,5,0,Cloud Computing
+7.39,1,1,1,1,Data Science,Higher Studies,5,1,Data Science Specialization
+6.61,1,1,1,1,Data Science,Higher Studies,6,0,Data Science Specialization
+9.55,0,0,1,3,Cloud,Higher Studies,9,0,Cloud Computing
+7.41,1,1,0,3,Web Development,Higher Studies,6,1,Full Stack Development
+8.67,1,1,1,0,Data Science,Startup,9,0,Data Science Specialization
+9.69,0,0,0,2,Web Development,Research,8,1,Full Stack Development
+8.52,1,1,1,3,Cloud,Startup,6,0,Cloud Computing
+7.26,1,0,1,6,Web Development,Industry,9,1,Full Stack Development
+9.67,0,0,0,3,Web Development,Research,8,1,Full Stack Development
+8.46,1,1,0,0,Web Development,Industry,9,1,Full Stack Development
+8.25,0,0,0,1,AI,Startup,10,1,MSc Artificial Intelligence
+8.45,1,0,0,4,Cloud,Startup,9,0,Cloud Computing
+9.65,0,0,1,6,Cloud,Higher Studies,5,1,Cloud Computing
+9.68,1,0,1,3,AI,Industry,5,0,MSc Artificial Intelligence
+6.48,1,0,0,1,Cybersecurity,Research,5,1,Cybersecurity Program
+7.57,0,1,1,4,Cloud,Research,9,0,Cloud Computing
+7.5,1,1,0,4,Cybersecurity,Startup,6,1,Cybersecurity Program
+8.96,1,0,0,6,Web Development,Industry,8,1,Full Stack Development
+9.68,1,1,0,2,Data Science,Industry,7,0,Data Science Specialization
+9.52,0,0,0,4,AI,Higher Studies,10,0,MSc Artificial Intelligence
+7.97,0,1,0,2,Data Science,Higher Studies,7,1,MSc Artificial Intelligence
+7.42,1,1,1,1,Web Development,Industry,6,0,Full Stack Development
+7.96,1,1,1,0,Cloud,Industry,10,1,Cloud Computing
+6.64,1,0,1,2,Data Science,Industry,5,0,Data Science Specialization
+8.01,1,1,0,3,Cybersecurity,Higher Studies,5,1,Cybersecurity Program
+6.0,0,1,0,4,Cybersecurity,Higher Studies,5,0,Cybersecurity Program
+6.23,0,0,0,2,Web Development,Startup,10,0,Full Stack Development
+6.51,0,0,0,5,AI,Research,6,1,MSc Artificial Intelligence
+9.44,0,1,0,0,AI,Startup,5,1,B.Tech AIML
+8.7,0,0,0,6,Cybersecurity,Startup,5,1,Cybersecurity Program
+8.51,1,0,1,6,AI,Industry,9,0,MSc Artificial Intelligence
+7.26,1,1,0,6,Cloud,Higher Studies,5,1,Cloud Computing
+9.19,0,0,1,1,Cybersecurity,Startup,9,1,Cybersecurity Program
+6.64,1,1,0,4,AI,Research,6,1,MSc Artificial Intelligence
+6.32,0,1,1,4,Data Science,Industry,5,1,MSc Artificial Intelligence
+8.62,0,0,0,3,AI,Startup,9,1,MSc Artificial Intelligence
+8.17,0,0,1,2,Web Development,Industry,8,1,Full Stack Development
+8.8,1,1,0,5,Data Science,Industry,6,0,Data Science Specialization
+8.41,0,0,1,6,Cybersecurity,Industry,8,1,Cybersecurity Program
+8.12,1,0,0,1,Data Science,Higher Studies,6,1,Data Science Specialization
+8.93,1,0,0,3,AI,Industry,9,0,MSc Artificial Intelligence
+8.29,1,0,0,3,Data Science,Industry,7,0,Data Science Specialization
+9.67,1,1,0,3,Web Development,Startup,5,1,Full Stack Development
+6.77,0,0,0,0,Web Development,Higher Studies,6,0,Full Stack Development
+6.39,0,0,0,3,Data Science,Startup,6,1,MSc Artificial Intelligence
+6.3,1,0,0,1,Data Science,Research,10,1,Data Science Specialization
+9.19,1,0,0,3,Data Science,Startup,6,1,Data Science Specialization
+8.91,0,0,1,1,Web Development,Research,8,0,Full Stack Development
+6.43,0,0,1,0,Web Development,Research,6,0,Full Stack Development
+7.14,1,0,0,1,Cloud,Research,8,1,Cloud Computing
+8.49,1,0,1,2,Cloud,Industry,5,0,Cloud Computing
+7.9,1,1,0,4,AI,Higher Studies,8,0,B.Tech AIML
+7.07,1,0,0,5,AI,Startup,8,0,MSc Artificial Intelligence
+6.4,0,1,1,6,Web Development,Startup,7,0,Full Stack Development
+6.93,0,0,0,0,Data Science,Higher Studies,9,1,MSc Artificial Intelligence
+9.29,0,0,0,3,Web Development,Higher Studies,8,0,Full Stack Development
+8.12,0,0,1,1,AI,Industry,6,0,MSc Artificial Intelligence
+8.16,0,1,1,2,AI,Industry,8,1,B.Tech AIML
+6.7,0,0,0,3,Data Science,Industry,8,1,MSc Artificial Intelligence
+8.4,0,1,1,1,Cloud,Industry,9,1,Cloud Computing
+7.21,1,0,1,6,AI,Higher Studies,8,0,MSc Artificial Intelligence
+7.01,0,1,0,2,Web Development,Startup,5,1,Full Stack Development
+9.35,0,0,0,3,AI,Startup,7,0,MSc Artificial Intelligence
+6.14,0,0,1,2,Web Development,Research,7,0,Full Stack Development
+8.82,1,0,0,5,Cybersecurity,Research,9,1,Cybersecurity Program
+8.47,0,0,0,4,Web Development,Higher Studies,8,0,Full Stack Development
+6.75,0,1,0,4,Data Science,Industry,7,0,MSc Artificial Intelligence
+7.98,1,0,0,2,AI,Research,10,1,MSc Artificial Intelligence
+8.71,0,1,1,0,Web Development,Industry,7,0,Full Stack Development
+9.78,0,0,1,6,Cybersecurity,Higher Studies,9,0,Cybersecurity Program
+7.89,1,1,1,4,Web Development,Research,6,1,Full Stack Development
+8.17,1,0,1,5,Cloud,Research,6,0,Cloud Computing
+7.31,0,0,1,4,Web Development,Startup,9,0,Full Stack Development
+7.66,0,0,1,6,Cybersecurity,Higher Studies,5,0,Cybersecurity Program
+7.11,0,0,1,0,Cybersecurity,Research,5,0,Cybersecurity Program
+6.94,0,1,0,6,Web Development,Research,5,1,Full Stack Development
+9.65,0,0,1,2,Cybersecurity,Startup,6,0,Cybersecurity Program
+7.17,1,1,0,5,Cybersecurity,Industry,7,0,Cybersecurity Program
+7.33,0,0,0,6,Cloud,Startup,10,1,Cloud Computing
+9.22,0,1,1,6,Web Development,Industry,5,0,Full Stack Development
+6.87,0,0,0,0,Data Science,Startup,8,1,MSc Artificial Intelligence
+9.78,1,1,1,6,Cloud,Higher Studies,5,0,Cloud Computing
+8.95,0,1,0,4,Web Development,Startup,6,0,Full Stack Development
+8.22,1,1,1,5,Cybersecurity,Industry,6,1,Cybersecurity Program
+7.29,1,1,0,5,Cybersecurity,Startup,8,0,Cybersecurity Program
+7.65,1,0,0,0,Web Development,Research,7,1,Full Stack Development
+7.49,1,0,0,6,AI,Industry,9,0,MSc Artificial Intelligence
+6.91,1,0,1,4,Cybersecurity,Startup,6,0,Cybersecurity Program
+8.83,1,0,1,0,Web Development,Higher Studies,6,1,Full Stack Development
+6.1,1,0,1,5,Data Science,Higher Studies,10,0,Data Science Specialization
+7.11,0,0,1,0,Web Development,Higher Studies,10,0,Full Stack Development
+6.52,0,0,0,2,Data Science,Industry,8,1,MSc Artificial Intelligence
+9.35,0,0,0,3,Cybersecurity,Startup,6,0,Cybersecurity Program
+9.41,1,0,1,6,Cloud,Startup,8,1,Cloud Computing
+7.13,1,0,1,5,Cloud,Higher Studies,9,0,Cloud Computing
+7.55,1,1,0,1,Cybersecurity,Higher Studies,5,0,Cybersecurity Program
+9.09,1,1,0,0,AI,Industry,5,1,B.Tech AIML
+6.04,1,1,1,6,AI,Startup,10,0,MSc Artificial Intelligence
+9.57,0,0,0,0,Web Development,Industry,5,1,Full Stack Development
+8.88,0,1,1,5,Cloud,Research,8,1,Cloud Computing
+8.05,1,0,0,6,Cybersecurity,Higher Studies,6,1,Cybersecurity Program
+7.63,0,1,0,5,Cloud,Higher Studies,6,1,Cloud Computing
+8.73,1,0,1,2,Cloud,Industry,8,0,Cloud Computing
+7.5,0,1,0,4,Data Science,Higher Studies,10,1,MSc Artificial Intelligence
+6.83,1,1,1,4,AI,Startup,5,0,MSc Artificial Intelligence
+8.02,0,0,0,5,AI,Industry,9,0,MSc Artificial Intelligence
+6.81,0,1,1,2,Data Science,Industry,8,0,MSc Artificial Intelligence
+6.36,0,1,1,2,AI,Higher Studies,5,1,MSc Artificial Intelligence
+6.63,0,1,0,1,Web Development,Industry,6,0,Full Stack Development
+7.36,0,1,1,6,AI,Higher Studies,9,0,MSc Artificial Intelligence
+7.99,1,1,1,5,Cybersecurity,Higher Studies,6,1,Cybersecurity Program
+9.59,0,0,1,1,Data Science,Higher Studies,9,1,MSc Artificial Intelligence
+9.12,1,0,1,0,Cybersecurity,Higher Studies,10,1,Cybersecurity Program
+8.77,0,1,0,2,Cloud,Industry,9,1,Cloud Computing
+9.68,0,0,1,1,Data Science,Startup,7,0,MSc Artificial Intelligence
+6.87,1,1,1,5,Cybersecurity,Research,7,0,Cybersecurity Program
+9.6,0,1,1,6,Cloud,Industry,7,0,Cloud Computing
+9.2,1,0,0,5,Cybersecurity,Research,9,0,Cybersecurity Program
+7.45,1,1,0,5,Cloud,Industry,10,0,Cloud Computing
+7.41,1,1,0,6,AI,Research,7,1,MSc Artificial Intelligence
+9.48,0,1,1,4,Cybersecurity,Startup,9,1,Cybersecurity Program
+6.69,1,0,1,0,Cybersecurity,Startup,6,1,Cybersecurity Program
+7.4,1,0,1,5,Web Development,Higher Studies,9,1,Full Stack Development
+7.47,0,0,0,2,Cloud,Research,5,0,Cloud Computing
+7.49,0,0,0,4,AI,Research,8,1,MSc Artificial Intelligence
+7.45,0,0,1,6,Data Science,Industry,7,0,MSc Artificial Intelligence
+8.35,1,0,1,4,Data Science,Research,5,1,Data Science Specialization
+8.86,1,1,1,1,Cybersecurity,Higher Studies,10,1,Cybersecurity Program
+6.13,0,0,1,2,Cybersecurity,Higher Studies,5,1,Cybersecurity Program
